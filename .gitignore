@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+build/
+vcpkg/
+.ignore
+app.log
+pdf_extractor.log
